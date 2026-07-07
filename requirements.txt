@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+flask
+joblib
+mlflow
+seaborn
+setuptools
+flask-httpauth
+Flask-BasicAuth
